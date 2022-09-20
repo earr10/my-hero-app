@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyHeroApp</string>
+    <string name="et_alter_ego">Batman, Spider-Man</string>
+    <string name="et_name">Bruce Wayne, Peter Parker</string>
+    <string name="alter_ego_title">Alter Ego</string>
+    <string name="bio_title">Bio</string>
+    <string name="power_title">Power</string>
+    <string name="image_description">IMAGE</string>
+    <string name="tv_bio">Bio</string>
+    <string name="et_bio">Strength, speed, mind power</string>
+    <string name="tv_power">Power</string>
+    <string name="btn_save">Save</string>
+</resources>
