@@ -1,4 +1,4 @@
-# MyHereApp
+# MyHeroApp
 
 Pass info between different Activities!
 
